@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\bin\Debug\net6.0\ReduceToZero.exe
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\bin\Debug\net6.0\ReduceToZero.deps.json
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\bin\Debug\net6.0\ReduceToZero.runtimeconfig.json
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\bin\Debug\net6.0\ReduceToZero.dll
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\bin\Debug\net6.0\ReduceToZero.pdb
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.dll
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\refint\ReduceToZero.dll
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.pdb
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ReduceToZero.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\FERNANDA\2023\ExC#\ReduceToZero\ReduceToZero\obj\Debug\net6.0\ref\ReduceToZero.dll
